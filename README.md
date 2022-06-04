@@ -1,5 +1,6 @@
 # Overview
-**This project consists of synthesis of heuristics using the idea of the following paper:**
+**This project consists of synthesis of heuristics using the idea of the following papers.**
+(This is not the exact implementation of the papers)
 ---
 - Barke, S., Peleg, H., Polikarpova, N. (2020). Just-in-time learning for bottom-up enumerative synthesis. Proceedings of the ACM on Programming Languages, 4(OOPSLA), 1-29.
 - Odena, Augustus, et al. ”BUSTLE: Bottom-up program-Synthesis Through Learning-guided Exploration.” arXiv
